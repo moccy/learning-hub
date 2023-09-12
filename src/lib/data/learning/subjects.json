@@ -1,0 +1,52 @@
+[
+    {
+        "title": "History",
+        "description": "Learn about history from the neolithic all the way up to contemporary history!",
+        "slug": "history"
+    },
+    {
+        "title": "Maths",
+        "description": "Dive into the world of numbers, equations, and analytical thinking.",
+        "slug": "maths"
+    },
+    {
+        "title": "Biology",
+        "description": "Explore the intricacies of living organisms, from the smallest cells to complex ecosystems.",
+        "slug": "biology"
+    },
+    {
+        "title": "Physics",
+        "description": "Unlock the mysteries of the universe, from subatomic particles to vast galaxies.",
+        "slug": "physics"
+    },
+    {
+        "title": "Chemistry",
+        "description": "Discover how elements interact, and the amazing reactions that shape our world.",
+        "slug": "chemistry"
+    },
+    {
+        "title": "Literature",
+        "description": "Dive deep into the world of prose, poetry, and narratives from various cultures and times.",
+        "slug": "literature"
+    },
+    {
+        "title": "Computer Science",
+        "description": "Learn the fundamentals of programming, algorithms, and the future of computational technologies.",
+        "slug": "computer-science"
+    },
+    {
+        "title": "Geography",
+        "description": "Travel the world from your desk, learning about climates, terrains, and cultures.",
+        "slug": "geography"
+    },
+    {
+        "title": "Psychology",
+        "description": "Peek into the human mind, exploring cognitive functions, behavior, and emotions.",
+        "slug": "psychology"
+    },
+    {
+        "title": "Philosophy",
+        "description": "Ponder life's big questions and the thoughts of great thinkers throughout history.",
+        "slug": "philosophy"
+    }
+]
