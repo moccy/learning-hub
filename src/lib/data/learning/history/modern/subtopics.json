@@ -1,0 +1,26 @@
+[
+    {
+        "title": "American Revolution and establishment of the US",
+        "slug": "american-revolution"
+    },
+    {
+        "title": "French Revolution and Napoleon",
+        "slug": "french-revolution"
+    },
+    {
+        "title": "Industrial Revolution",
+        "slug": "industrial-revolution"
+    },
+    {
+        "title": "World Wars: Causes, events, consequences",
+        "slug": "world-wars"
+    },
+    {
+        "title": "Cold War: Superpowers, proxy wars, space race",
+        "slug": "cold-war"
+    },
+    {
+        "title": "Decolonization and emergence of new nations",
+        "slug": "decolonization"
+    }
+]

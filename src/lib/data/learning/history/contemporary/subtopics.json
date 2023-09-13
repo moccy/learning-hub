@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Technological advancements: Internet, biotech, AI",
+        "slug": "tech-advancements"
+    },
+    {
+        "title": "Social movements: Civil rights, feminism, LGBTQ rights",
+        "slug": "social-movements"
+    },
+    {
+        "title": "Globalization and its impact",
+        "slug": "globalization"
+    },
+    {
+        "title": "Climate change and sustainability",
+        "slug": "climate-change"
+    },
+    {
+        "title": "Recent geopolitical shifts",
+        "slug": "geopolitical-shifts"
+    }
+]

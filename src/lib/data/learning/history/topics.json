@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Prehistoric Times",
+        "slug": "prehistoric"
+    },
+    {
+        "title": "Ancient Civilizations",
+        "slug": "ancient"
+    },
+    {
+        "title": "Medieval Period",
+        "slug": "medieval"
+    },
+    {
+        "title": "Renaissance & Exploration",
+        "slug": "renaissance"
+    },
+    {
+        "title": "Early Modern Period",
+        "slug": "early-modern"
+    },
+    {
+        "title": "The Modern Era",
+        "slug": "modern"
+    },
+    {
+        "title": "Contemporary History",
+        "slug": "contemporary"
+    }
+]

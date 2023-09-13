@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Byzantine Empire",
+        "slug": "byzantine-empire"
+    },
+    {
+        "title": "Islamic Golden Age: Caliphates and Islamic science/culture",
+        "slug": "islamic-golden-age"
+    },
+    {
+        "title": "Medieval Europe: Feudalism, Charlemagne, Holy Roman Empire, Crusades",
+        "slug": "medieval-europe"
+    },
+    {
+        "title": "Medieval Africa: Ghana, Mali, Songhai empires, Great Zimbabwe",
+        "slug": "medieval-africa"
+    },
+    {
+        "title": "Indian Subcontinent: Maurya, Gupta, Delhi Sultanate",
+        "slug": "medieval-india"
+    },
+    {
+        "title": "East Asia: Tang, Song, Yuan, Ming dynasties",
+        "slug": "medieval-east-asia"
+    }
+]

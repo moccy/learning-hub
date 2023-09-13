@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Mesopotamia: Sumer, Akkad, Babylon, Assyria, Persia",
+        "slug": "mesopotamia"
+    },
+    {
+        "title": "Ancient Egypt: Old, Middle, New Kingdoms, hieroglyphs, mummification, pyramids",
+        "slug": "ancient-egypt"
+    },
+    {
+        "title": "Ancient China: Xia, Shang, Zhou, Qin, Han dynasties",
+        "slug": "ancient-china"
+    },
+    {
+        "title": "Indus Valley Civilization and Vedic Period",
+        "slug": "indus-valley"
+    },
+    {
+        "title": "Ancient Greece: Minoans, Mycenaeans, Classical Greece, Hellenistic era",
+        "slug": "ancient-greece"
+    },
+    {
+        "title": "Roman Empire: Republic, Imperial era, decline",
+        "slug": "roman-empire"
+    }
+]

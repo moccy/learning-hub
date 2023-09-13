@@ -1,0 +1,18 @@
+[
+    {
+        "title": "European Renaissance: Art, science, literature",
+        "slug": "european-renaissance"
+    },
+    {
+        "title": "Age of Exploration: Columbus, Magellan, Vasco da Gama",
+        "slug": "age-of-exploration"
+    },
+    {
+        "title": "Mesoamerica: Aztecs, Mayans",
+        "slug": "mesoamerica"
+    },
+    {
+        "title": "Andean Civilization: Inca",
+        "slug": "andean-civilization"
+    }
+]
