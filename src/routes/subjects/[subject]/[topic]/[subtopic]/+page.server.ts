@@ -1,6 +1,9 @@
-import * as db from '$lib/server/database'
+import * as db from '$lib/server/database';
 import { error } from '@sveltejs/kit';
-import type { PageServerLoad } from './$types'
+import type { PageServerLoad } from './$types';
+import MarkdownIt from 'markdown-it';
+
+const mdParser = MarkdownIt();
 
 export const load: PageServerLoad = async ({ params }) => {
     const subject = (await db.getSubjects()).find(x => x.slug === params.subject);
@@ -27,9 +30,19 @@ export const load: PageServerLoad = async ({ params }) => {
         });
     }
 
+    if(!subtopic) {
+        throw error(404, {
+            message: 'Subtopic Not Found'
+        });
+    }
+
+    const rawMarkdown = await db.getSubtopicMarkdown(subject.slug, topic.slug, subtopic.slug);
+    const htmlContent = mdParser.render(rawMarkdown);
+
     return {
         subject: subject,
         topic: topic,
-        subtopic: subtopic
+        subtopic: subtopic,
+        htmlContent: htmlContent
     }
 }

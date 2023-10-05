@@ -33,3 +33,13 @@ export const getSubtopics: (subjectSlug: string, topicSlug: string) => Promise<T
         return [];
     }
 }
+
+export const getSubtopicMarkdown: (subjectSlug: string, topicSlug: string, subtopicSlug: string) => Promise<string> = async(subjectSlug: string, topicSlug: string, subtopicSlug: string) => {
+    try {
+        const data: string = (await import(`$lib/data/learning/${subjectSlug}/${topicSlug}/${subtopicSlug}.md?raw`)).default;
+        return data ?? "";
+    } catch(error) {
+        console.warn(`Failed to import subtopics for topic: ${subjectSlug}/${topicSlug}`);
+        return "";
+    }
+}

@@ -24,6 +24,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@types/markdown-it": "^13.0.2",
+		"markdown-it": "^13.0.2",
 		"normalize.css": "^8.0.1"
 	}
 }
