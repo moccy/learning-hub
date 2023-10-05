@@ -4,7 +4,7 @@
   export let href: string = "";
   const element = href ? "a" : "div";
   const classes =
-    "card flex flex-col items-center rounded-md bg-lime-900 hover:bg-blue-500";
+    "card flex flex-col items-center rounded-md bg-lime-900 transform transition ease-in-out duration-200 hover:scale-105";
 </script>
 
 <svelte:element this={element} {href} class={classes}>
