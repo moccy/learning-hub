@@ -4,7 +4,7 @@
   import Navbar from "$lib/components/nav/navBar.svelte";
   import type { LayoutData } from "./$types";
   import Breadcrumb from "$lib/components/nav/breadcrumb.svelte";
-  import type BreadcrumbItem from "$lib/models/nav/breadcrumb";
+  import type BreadcrumbItem from "$lib/models/nav/breadcrumbItem";
   import { page } from "$app/stores";
 
   export let data: LayoutData;
@@ -18,7 +18,10 @@
       segments?.map((segment) => {
         accumulatedPath += `/${segment}`;
         return {
-          label: segment.charAt(0).toUpperCase() + segment.slice(1), // Capitalize first letter
+          label: segment
+            .split("-")
+            .map((x) => x.charAt(0).toUpperCase() + x.slice(1))
+            .join(" "),
           url: accumulatedPath,
         };
       }) ?? [];

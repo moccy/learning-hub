@@ -23,3 +23,13 @@ export const getTopics: (subjectSlug: string) => Promise<Topic[]> = async (subje
         return [];
     }
 }
+
+export const getSubtopics: (subjectSlug: string, topicSlug: string) => Promise<Topic[]> = async (subjectSlug: string, topicSlug: string) => {
+    try {
+        const data: Topic[] = (await import(`$lib/data/learning/${subjectSlug}/${topicSlug}/subtopics.json`)).default;
+        return data ?? [];
+    } catch(error) {
+        console.warn(`Failed to import subtopics for topic: ${subjectSlug}/${topicSlug}`);
+        return [];
+    }
+}
