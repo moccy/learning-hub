@@ -4,7 +4,7 @@
   export let data;
 </script>
 
-<h1 class="text-xl mb-6">{data.topic?.title ?? "Subtopic Title Missing"}</h1>
+<h1 class="text-xl mb-6">{data.topic?.title ?? "Topic Title Missing"}</h1>
 
 {#if data.subtopics?.length}
   <div
