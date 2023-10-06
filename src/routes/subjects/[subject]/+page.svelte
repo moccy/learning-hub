@@ -11,7 +11,11 @@
 >
   {#if data.topics?.length}
     {#each data.topics as topic}
-      <Card href="{data.subject?.slug}/{topic.slug}" title={topic.title} />
+      <Card
+        href="{data.subject?.slug}/{topic.slug}"
+        title={topic.title}
+        contents={topic.description}
+      />
     {/each}
   {:else}
     <p>No topics available for this subject.</p>

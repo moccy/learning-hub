@@ -11,7 +11,11 @@
     class="grid grid-cols-1 min-[480px]:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4"
   >
     {#each data.subtopics as subtopic}
-      <Card href="{data.topic?.slug}/{subtopic.slug}" title={subtopic.title} />
+      <Card
+        href="{data.topic?.slug}/{subtopic.slug}"
+        title={subtopic.title}
+        contents={subtopic.description}
+      />
     {/each}
   </div>
 {:else}

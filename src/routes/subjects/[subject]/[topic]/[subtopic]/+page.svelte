@@ -2,8 +2,12 @@
   export let data;
 </script>
 
-<div class="main-content">
-  {@html data.htmlContent}
+<div class="main-content mb-12">
+  {#if data.htmlContent}
+    {@html data.htmlContent}
+  {:else}
+    <p>No content here yet, go and create a markdown file for your content!</p>
+  {/if}
 </div>
 
 <style lang="scss">

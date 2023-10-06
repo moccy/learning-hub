@@ -6,6 +6,7 @@
   import Breadcrumb from "$lib/components/nav/breadcrumb.svelte";
   import type BreadcrumbItem from "$lib/models/nav/breadcrumbItem";
   import { page } from "$app/stores";
+  import Footer from "$lib/components/footer/footer.svelte";
 
   export let data: LayoutData;
 
@@ -31,6 +32,8 @@
 <Navbar navItems={data.navItems} />
 <Breadcrumb items={breadcrumbItems} />
 
-<main class="container mx-auto my-4 lg:my-8 px-4">
+<main class="container mx-auto my-4 lg:my-8 px-4 h-full mb-6">
   <slot />
 </main>
+
+<Footer />
