@@ -38,21 +38,21 @@ Understanding the evolutionary journey of humans is crucial for piecing together
 
 ## Early Human Culture
 
-## Tool Use
+### Tool Use
 
 - Trace the progression of tools from Oldowan to Acheulean to more advanced tools.
 - Understand how tool use influenced hunting, gathering, and daily life.
 
-## Control of Fire
+### Control of Fire
 
 - Discover how mastering the element of fire affected human evolution, migration, and survival.
 
-## Art and Symbolism
+### Art and Symbolism
 
 - Explore the earliest forms of human expression, such as cave paintings in Lascaux, France, or the Venus figurines.
 - Discuss theories about the purposes and meanings behind these artifacts.
 
-## Language and Communication
+### Language and Communication
 
 - Dive into theories about when and why spoken language may have developed.
 - Understand the significance of language in human cooperation, culture, and cognition.
