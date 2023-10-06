@@ -1,26 +1,32 @@
 [
     {
         "title": "American Revolution and establishment of the US",
+        "description": "Delve into the ideological, political, and military struggles that led the thirteen American colonies to independence from Britain and the subsequent establishment of the United States.",
         "slug": "american-revolution"
     },
     {
         "title": "French Revolution and Napoleon",
+        "description": "Witness a pivotal moment in history as societal pressures erupt into revolution, reshaping the French political landscape and giving rise to Napoleon Bonaparte's empire.",
         "slug": "french-revolution"
     },
     {
         "title": "Industrial Revolution",
+        "description": "Explore the seismic shift from agrarian societies to industrial urban centers, marked by technological innovation, societal change, and a reshaped global economy.",
         "slug": "industrial-revolution"
     },
     {
         "title": "World Wars: Causes, events, consequences",
+        "description": "Navigate the global conflicts of the 20th century, examining the intricate causes, major events, and profound ramifications of the two World Wars.",
         "slug": "world-wars"
     },
     {
         "title": "Cold War: Superpowers, proxy wars, space race",
+        "description": "Dive into the ideological standoff between the US and the USSR, a period marked by nuclear tensions, proxy conflicts, and a race to space.",
         "slug": "cold-war"
     },
     {
         "title": "Decolonization and emergence of new nations",
+        "description": "Explore the post-war period where numerous nations gained independence, reshaping political borders and global dynamics in the process.",
         "slug": "decolonization"
     }
 ]

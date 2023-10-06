@@ -1,26 +1,32 @@
 [
     {
         "title": "Byzantine Empire",
+        "description": "Venture into the continuation of the Roman Empire in the East, renowned for its art, architecture, and the preservation of classical knowledge.",
         "slug": "byzantine-empire"
     },
     {
         "title": "Islamic Golden Age: Caliphates and Islamic science/culture",
+        "description": "Explore the flourishing era of Islamic civilization, its scholarly pursuits, innovations, and its influence on the world.",
         "slug": "islamic-golden-age"
     },
     {
         "title": "Medieval Europe: Feudalism, Charlemagne, Holy Roman Empire, Crusades",
+        "description": "Step into the feudal tapestry of Europe, marked by legendary monarchs, religious fervor, and the quest for power and piety.",
         "slug": "medieval-europe"
     },
     {
         "title": "Medieval Africa: Ghana, Mali, Songhai empires, Great Zimbabwe",
+        "description": "Discover the great empires of Africa, their trade networks, cultural achievements, and mysterious ruins.",
         "slug": "medieval-africa"
     },
     {
         "title": "Indian Subcontinent: Maurya, Gupta, Delhi Sultanate",
+        "description": "Navigate the subcontinent's rich tapestry of empires, their cultural, religious, and scientific contributions to the world.",
         "slug": "medieval-india"
     },
     {
         "title": "East Asia: Tang, Song, Yuan, Ming dynasties",
+        "description": "Experience the cultural renaissances, inventions, and dynastic shifts of East Asia, which shaped its destiny and the world.",
         "slug": "medieval-east-asia"
     }
 ]

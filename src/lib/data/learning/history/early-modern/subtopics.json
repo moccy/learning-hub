@@ -1,22 +1,27 @@
 [
     {
         "title": "European Empires: British, French, Spanish, Portuguese",
+        "description": "Survey the rise and fall of the European colonial empires, their global impact, and the legacies they left behind.",
         "slug": "european-empires"
     },
     {
         "title": "Scientific Revolution and Enlightenment",
+        "description": "Illuminate the era where science and reason took center stage, giving birth to revolutionary ideas that changed societies forever.",
         "slug": "scientific-revolution"
     },
     {
         "title": "Mughal Empire and Early Modern India",
+        "description": "Relish in the grandeur of the Mughals, their architectural wonders, and the syncretism that characterized early modern India.",
         "slug": "mughal-empire"
     },
     {
         "title": "Qing Dynasty and the end of imperial China",
+        "description": "Witness the last great dynasty of China, its challenges, innovations, and the tumultuous events leading to the end of the imperial era.",
         "slug": "qing-dynasty"
     },
     {
         "title": "Russian Tsardom and Empire",
+        "description": "Traverse the vast Russian landscape, its tsars, expansion, and the intricate tapestry of its imperial legacy.",
         "slug": "russian-empire"
     }
 ]

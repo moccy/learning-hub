@@ -1,26 +1,32 @@
 [
     {
         "title": "Mesopotamia: Sumer, Akkad, Babylon, Assyria, Persia",
+        "description": "Discover the cradle of civilization, its pioneering city-states, advancements in writing, law, and the rise and fall of its mighty empires.",
         "slug": "mesopotamia"
     },
     {
         "title": "Ancient Egypt: Old, Middle, New Kingdoms, hieroglyphs, mummification, pyramids",
+        "description": "Journey along the Nile, delving into the mysteries of pharaohs, monumental architecture, and a civilization that lasted millennia.",
         "slug": "ancient-egypt"
     },
     {
         "title": "Ancient China: Xia, Shang, Zhou, Qin, Han dynasties",
+        "description": "Traverse China's ancient past, from its earliest dynasties to the establishment of its imperial system and early technological innovations.",
         "slug": "ancient-china"
     },
     {
         "title": "Indus Valley Civilization and Vedic Period",
+        "description": "Unearth the secrets of the enigmatic Indus Valley cities and delve into the Vedic period's foundational texts and beliefs.",
         "slug": "indus-valley"
     },
     {
         "title": "Ancient Greece: Minoans, Mycenaeans, Classical Greece, Hellenistic era",
+        "description": "Explore the birthplace of Western culture, its philosophical, artistic, and political innovations, and the legacy of its empires.",
         "slug": "ancient-greece"
     },
     {
         "title": "Roman Empire: Republic, Imperial era, decline",
+        "description": "Relive the glory of Rome, its foundational republic, sprawling empire, monumental achievements, and its eventual decline.",
         "slug": "roman-empire"
     }
 ]

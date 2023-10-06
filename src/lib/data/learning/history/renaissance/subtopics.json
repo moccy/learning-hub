@@ -1,18 +1,22 @@
 [
     {
         "title": "European Renaissance: Art, science, literature",
+        "description": "Dive into Europe's 'rebirth', marked by unparalleled artistic, scientific, and literary advancements that shaped the modern world.",
         "slug": "european-renaissance"
     },
     {
         "title": "Age of Exploration: Columbus, Magellan, Vasco da Gama",
+        "description": "Join the daring voyages that connected the globe, bringing cultures into contact, and transforming history forever.",
         "slug": "age-of-exploration"
     },
     {
         "title": "Mesoamerica: Aztecs, Mayans",
+        "description": "Delve into the intricate civilizations of Mesoamerica, their vast knowledge, monumental pyramids, and eventual encounters with Europe.",
         "slug": "mesoamerica"
     },
     {
         "title": "Andean Civilization: Inca",
+        "description": "Ascend the Andes to explore the last great pre-Columbian empire, known for its vast road networks, masonry, and mountain citadels.",
         "slug": "andean-civilization"
     }
 ]

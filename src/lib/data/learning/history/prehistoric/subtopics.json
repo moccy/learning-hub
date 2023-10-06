@@ -1,14 +1,17 @@
 [
     {
         "title": "The emergence of early humans",
+        "description": "Trace the evolutionary journey of Homo sapiens, examining key milestones from the first bipedal steps to the dawn of human culture.",
         "slug": "early-humans"
     },
     {
         "title": "The Stone Age: Paleolithic, Mesolithic, Neolithic",
+        "description": "Explore the three major divisions of the Stone Age, their defining characteristics, tools, art, and the transition from hunting-gathering to settled communities.",
         "slug": "stone-age"
     },
     {
         "title": "Development of agriculture and early societies",
+        "description": "Witness the birth of agriculture and its revolutionary impact on social structures, leading to the establishment of the world's earliest civilizations.",
         "slug": "early-development"
     }
 ]

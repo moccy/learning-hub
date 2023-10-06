@@ -1,30 +1,37 @@
 [
     {
         "title": "Prehistoric Times",
+        "description": "Dive into the dawn of human civilization, tracing our earliest ancestors, their way of life, and the innovations that paved the way for future generations.",
         "slug": "prehistoric"
     },
     {
         "title": "Ancient Civilizations",
+        "description": "Journey to the cradles of human civilization, exploring the rise and fall of great empires, their culture, innovations, and their impact on history.",
         "slug": "ancient"
     },
     {
         "title": "Medieval Period",
+        "description": "Discover a time of knights, castles, and vast empires. Delve into the cultural, religious, and scientific transformations that shaped the modern world.",
         "slug": "medieval"
     },
     {
         "title": "Renaissance & Exploration",
+        "description": "Witness the rebirth of art, science, and culture. Explore an era of discovery, where brave explorers charted the unknown, and great thinkers challenged the status quo.",
         "slug": "renaissance"
     },
     {
         "title": "Early Modern Period",
+        "description": "Enter an age of empires, revolution, and change. Explore the political, technological, and social revolutions that set the stage for the modern age.",
         "slug": "early-modern"
     },
     {
         "title": "The Modern Era",
+        "description": "Navigate through tumultuous times marked by world wars, rapid industrialization, and the rise and fall of empires. Examine the events that have shaped the contemporary world.",
         "slug": "modern"
     },
     {
         "title": "Contemporary History",
+        "description": "Step into the recent past, analyzing the technological, political, and social changes that define our current era and shape the future.",
         "slug": "contemporary"
     }
 ]
