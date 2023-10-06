@@ -6,6 +6,10 @@ The data is currently stored in /src/lib/data. There is no easy way to add in da
 
 Associated resources must be uploaded and managed by the user, as to avoid any copyright issues.
 
+## Screenshot
+
+![A screenshot of the subjects page on Learning Hub](screenshot.png)
+
 ## Developing
 
 To set up your development environment, follow the below instructions.
